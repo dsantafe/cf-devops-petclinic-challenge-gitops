@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: result
-          image: dsantafe/petclinic:1.0.0-17
+          image: dsantafe/petclinic:1.0.0-21
           ports:
             - containerPort: 80
 ---
